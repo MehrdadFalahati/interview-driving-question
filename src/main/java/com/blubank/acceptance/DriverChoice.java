@@ -1,4 +1,4 @@
-package com.github.mehrdad.falahati.acceptance;
+package com.blubank.acceptance;
 
 public interface DriverChoice {
     /**

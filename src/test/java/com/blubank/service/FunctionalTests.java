@@ -1,7 +1,8 @@
-package com.github.mehrdad.falahati.service;
+package com.blubank.service;
 
-import com.github.mehrdad.falahati.acceptance.DriverChoice;
-import com.github.mehrdad.falahati.acceptance.DriverChoiceImpl;
+import com.blubank.acceptance.DriverChoice;
+import com.blubank.acceptance.DriverChoiceImpl;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.MethodOrderer;

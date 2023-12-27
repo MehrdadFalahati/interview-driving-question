@@ -1,4 +1,4 @@
-package com.github.mehrdad.falahati.service;
+package com.blubank.service;
 
 public interface DriverAcceptanceService {
     /**
